@@ -7,6 +7,7 @@
     <title>codenhub</title>
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <link rel="stylesheet" href="assets/css/style.css">
+    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
 </head>
 <body class="<?php echo $page_class?>">
     <header style="<?php echo $bg ?> no-repeat center / cover">
