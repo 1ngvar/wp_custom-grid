@@ -1398,9 +1398,9 @@ html {
     }
 
 
-    /*  My custom classes  */
 
+    /*  My custom classes  */
     .text-center {
-        text-align: center;
+        text-align: center !important;
     }
 }

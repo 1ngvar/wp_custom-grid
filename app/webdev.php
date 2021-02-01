@@ -55,13 +55,13 @@
 	<div class="container">
 		<div class="row align-items-center">
 			<div class="col-lg-6">
-					<h2>Web Development</h2>
+					<h2 class="text-center">Web Development</h2>
 					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias aliquid assumenda at, commodi deserunt dolorem dolorum ea eaque fugit impedit laboriosam, nam nobis non nostrum obcaecati odit optio quia quibusdam, repudiandae tempora unde ut voluptas? Adipisci, atque autem, cupiditate debitis dolor dolores eaque exercitationem molestias nulla quam quo rem repudiandae vel? Cupiditate illo laudantium minima necessitatibus odio quas quasi. Cumque.
 					<br><br>
 					Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias aliquid assumenda at, commodi deserunt dolorem dolorum ea eaque fugit impedit laboriosam, nam nobis non nostrum obcaecati odit optio quia quibusdam, repudiandae tempora unde ut voluptas? Adipisci, atque autem, cupiditate debitis dolor dolores eaque exercitationem molestias nulla quam quo rem repudiandae vel? Cupiditate illo laudantium minima necessitatibus odio quas quasi. Cumque.</p>
 			</div>
 			<div class="col-lg-6">
-					<h2>Design Development</h2>
+					<h2 class="text-center">Design Development</h2>
 					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias aliquid assumenda at, commodi deserunt dolorem dolorum ea eaque fugit impedit laboriosam, nam nobis non nostrum obcaecati odit optio quia quibusdam, repudiandae tempora unde ut voluptas? Adipisci, atque autem, cupiditate debitis dolor dolores eaque exercitationem molestias nulla quam quo rem repudiandae vel? Cupiditate illo laudantium minima necessitatibus odio quas quasi. Cumque.
 					<br><br>
 					Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias aliquid assumenda at, commodi deserunt dolorem dolorum ea eaque fugit impedit laboriosam, nam nobis non nostrum obcaecati odit optio quia quibusdam, repudiandae tempora unde ut voluptas? Adipisci, atque autem, cupiditate debitis dolor dolores eaque exercitationem molestias nulla quam quo rem repudiandae vel? Cupiditate illo laudantium minima necessitatibus odio quas quasi. Cumque.</p>
