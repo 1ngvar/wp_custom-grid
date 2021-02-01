@@ -1,7 +1,7 @@
 <?php
 
 $recepient = "example@mail.com";
-$sitename = "Wordpress";
+$sitename = "codenhub";
 
 $name = trim($_POST["name"]);
 $email = trim($_POST["email"]);

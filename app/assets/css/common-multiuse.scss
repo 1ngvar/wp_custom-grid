@@ -387,3 +387,13 @@ html, body{
 body{
 	background: #f2f2f2;
 }
+
+a {
+  color: inherit;
+  text-decoration: inherit;
+}
+
+
+.container_wide {
+  max-width: 1440px;
+}

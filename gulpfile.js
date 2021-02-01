@@ -28,7 +28,7 @@ gulp.task('browser-sync',['php'], function() {
         port: 8080,
         open: true,
         notify: false,
-        browser: "firefox"
+        browser: "chrome"
     });
 });
 

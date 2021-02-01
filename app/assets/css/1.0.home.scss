@@ -1,297 +1,297 @@
-.header-content{
-	padding: 160px 0 312px;
-	h1{
-		text-align: center;
-		color: $white;
-		font-family: $gothampro;
-		font-size: 52px;
-		text-transform: uppercase;
-		margin-bottom: 40px;
-	}
-	p{
-		text-align: center;
-		color: $white;
-		font-size: 16px;
-		margin: 0 auto 40px;
-		line-height: 20px;
-		max-width: 970px;
-		font-weight: 300;
-	}
-	.btn-start{
-		color: $green;
-		font-size: 16px;
-		text-transform: uppercase;
-		text-decoration: none !important;
-		outline: none !important;
-		box-shadow: none !important;
-		background: $white;
-		padding: 20px;
-		max-width: 240px;
-		width: 100%;
-		display: block;
-		border-radius: 35px;
-		font-weight: bold;
-		text-align: center;
-		margin: 0 auto;
-		transition: 0.2s;
-		&:hover{
-			transition: 0.2s;
-			opacity: 0.5;
-		}
-	}
-}
+  .header-content{
+      padding: 160px 0 312px;
+      h1{
+          text-align: center;
+          color: $white;
+          font-family: $gothampro;
+          font-size: 52px;
+          text-transform: uppercase;
+          margin-bottom: 40px;
+      }
+      p{
+          text-align: center;
+          color: $white;
+          font-size: 16px;
+          margin: 0 auto 40px;
+          line-height: 20px;
+          max-width: 970px;
+          font-weight: 300;
+      }
+      .btn-start{
+          color: $green;
+          font-size: 16px;
+          text-transform: uppercase;
+          text-decoration: none !important;
+          outline: none !important;
+          box-shadow: none !important;
+          background: $white;
+          padding: 20px;
+          max-width: 240px;
+          width: 100%;
+          display: block;
+          border-radius: 35px;
+          font-weight: bold;
+          text-align: center;
+          margin: 0 auto;
+          transition: 0.2s;
+          &:hover{
+              transition: 0.2s;
+              opacity: 0.5;
+          }
+      }
+  }
 
-.block-cards{
-	margin-top: -110px;
-	position: relative;
-	z-index: 1;
-	.card-item{
-		padding: 40px 14px;
-		border-radius: 25px;
-		background: $white;
-		box-shadow: 0 0 10px 1px rgba(0,0,0,.25);
-		max-width: 272px;
-		width: 100%;
-		margin: 0 auto;
-		figure{
-			display: block;
-			margin: 0 auto 25px;
-			height: 60px;
-			width: auto;
-			img{
-				display: block;
-				margin: 0 auto;
-				width: auto;
-			}
-		}
-		.title{
-			text-align: center;
-			color: $green;
-			font-size: 22px;
-			font-weight: 600;
-			margin-bottom: 22px;
-		}
-		.text{
-			text-align: center;
-			font-size: 15px;
-			font-weight: 300;
-			line-height: 20px;
-		}
-	}
-}
+  .block-cards{
+      margin-top: -110px;
+      position: relative;
+      z-index: 1;
+      .card-item{
+          padding: 40px 14px;
+          border-radius: 25px;
+          background: $white;
+          box-shadow: 0 0 10px 1px rgba(0,0,0,.25);
+          max-width: 272px;
+          width: 100%;
+          margin: 0 auto;
+          figure{
+              display: block;
+              margin: 0 auto 25px;
+              height: 60px;
+              width: auto;
+              img{
+                  display: block;
+                  margin: 0 auto;
+                  width: auto;
+              }
+          }
+          .title{
+              text-align: center;
+              color: $green;
+              font-size: 22px;
+              font-weight: 600;
+              margin-bottom: 22px;
+          }
+          .text{
+              text-align: center;
+              font-size: 15px;
+              font-weight: 300;
+              line-height: 20px;
+          }
+      }
+  }
 
-.block-text{
-	padding: 100px 0;
-	&.white{
-		background: $white;
-	}
-	img{
-		width: 100%;
-		height: auto;
-	}
-	.text-wrap{
-		max-width: 445px;
-		width: 100%;
-		margin: 0 auto;
-	}
-	h2{
-		font-size: 28px;
-		color: $green;
-		font-weight: 600;
-		margin-bottom: 45px;
-	}
-	p{
-		font-weight: 300;
-		line-height: 20px;
-		font-size: 16px;
-		margin-bottom: 45px;
-	}
-	.btn-more{
-		height: 65px;
-		width: 65px;
-		border-radius: 50%;
-		border: solid 3px $green;
-		display: flex;
-		align-items: center;
-		justify-content: center;
-		cursor: pointer;
-		text-decoration: none !important;
-		text-decoration: none !important;
-		outline: none !important;
-		box-shadow: none !important;
-		svg{
-			height: 25px;
-			width: auto;
-		}
-		transition: 0.2s;
-		&:hover{
-			transition: 0.2s;
-			opacity: 0.5;
-		}
-	}
-}
+  .block-text{
+      padding: 100px 0;
+      &.white{
+          background: $white;
+      }
+      img{
+          width: 100%;
+          height: auto;
+      }
+      .text-wrap{
+          max-width: 445px;
+          width: 100%;
+          margin: 0 auto;
+      }
+      h2{
+          font-size: 28px;
+          color: $green;
+          font-weight: 600;
+          margin-bottom: 45px;
+      }
+      p{
+          font-weight: 300;
+          line-height: 20px;
+          font-size: 16px;
+          margin-bottom: 45px;
+      }
+      .btn-more{
+          height: 65px;
+          width: 65px;
+          border-radius: 50%;
+          border: solid 3px $green;
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          cursor: pointer;
+          text-decoration: none !important;
+          text-decoration: none !important;
+          outline: none !important;
+          box-shadow: none !important;
+          svg{
+              height: 25px;
+              width: auto;
+          }
+          transition: 0.2s;
+          &:hover{
+              transition: 0.2s;
+              opacity: 0.5;
+          }
+      }
+  }
 
-.block-form{
-	padding: 90px 0;
-	background: $green;
-	h2{
-		font-size: 38px;
-		color: $white;
-		font-weight: 600;
-		margin-bottom: 60px;
-		text-align: center;
-	}
-	form{
-		max-width: 560px;
-		width: 100%;
-		margin: 0 auto;
-		.row-form{
-			display: flex;
-			align-items: center;
-			justify-content: space-between;
-			width: 100%;
-		}
-		input{
-			flex: auto;
-			padding: 16px;
-			border-radius: 25px;
-			border: none !important;
-			outline: none !important;
-			background: $white !important;
-			margin: 0 0 55px 0;
-			box-shadow: 0 0 10px 1px rgba(0,0,0,.25)!important;
-			&:nth-of-type(2){
-				margin-left: 17px;
-			}
-		}
-		textarea{
-			display: block;
-			width: 100%;
-			height: 155px;
-			padding: 16px;
-			border-radius: 25px;
-			border: none !important;
-			box-shadow: 0 0 10px 1px rgba(0,0,0,.25)!important;
-			outline: none !important;
-			background: $white !important;
-			resize: none;
-			margin-bottom: 45px;
-		}
-		button{
-			color: $green;
-			font-size: 16px;
-			text-transform: uppercase;
-			border: none !important;
-			text-decoration: none !important;
-			outline: none !important;
-			box-shadow: 0 0 10px 1px rgba(0,0,0,.25)!important;
-			background: $white;
-			padding: 20px;
-			max-width: 240px;
-			width: 100%;
-			display: block;
-			border-radius: 35px;
-			font-weight: bold;
-			text-align: center;
-			margin: 0 auto;
-			cursor: pointer;
-			transition: 0.2s;
-			&:hover{
-				transition: 0.2s;
-				opacity: 0.5;
-			}
-		}
-	}
-}
+  .block-form{
+      padding: 90px 0;
+      background: $green;
+      h2{
+          font-size: 38px;
+          color: $white;
+          font-weight: 600;
+          margin-bottom: 60px;
+          text-align: center;
+      }
+      form{
+          max-width: 560px;
+          width: 100%;
+          margin: 0 auto;
+          .row-form{
+              display: flex;
+              align-items: center;
+              justify-content: space-between;
+              width: 100%;
+          }
+          input{
+              flex: auto;
+              padding: 16px;
+              border-radius: 25px;
+              border: none !important;
+              outline: none !important;
+              background: $white !important;
+              margin: 0 0 55px 0;
+              box-shadow: 0 0 10px 1px rgba(0,0,0,.25)!important;
+              &:nth-of-type(2){
+                  margin-left: 17px;
+              }
+          }
+          textarea{
+              display: block;
+              width: 100%;
+              height: 155px;
+              padding: 16px;
+              border-radius: 25px;
+              border: none !important;
+              box-shadow: 0 0 10px 1px rgba(0,0,0,.25)!important;
+              outline: none !important;
+              background: $white !important;
+              resize: none;
+              margin-bottom: 45px;
+          }
+          button{
+              color: $green;
+              font-size: 16px;
+              text-transform: uppercase;
+              border: none !important;
+              text-decoration: none !important;
+              outline: none !important;
+              box-shadow: 0 0 10px 1px rgba(0,0,0,.25)!important;
+              background: $white;
+              padding: 20px;
+              max-width: 240px;
+              width: 100%;
+              display: block;
+              border-radius: 35px;
+              font-weight: bold;
+              text-align: center;
+              margin: 0 auto;
+              cursor: pointer;
+              transition: 0.2s;
+              &:hover{
+                  transition: 0.2s;
+                  opacity: 0.5;
+              }
+          }
+      }
+  }
 
-@media only screen and (min-width: 1200px){
-	.block-cards{
-		.container{
-			max-width: 1142px;
-		}
-	}
-}
+  @media only screen and (min-width: 1200px){
+      .block-cards{
+          .container{
+              max-width: 1142px;
+          }
+      }
+  }
 
-@media only screen and (max-width: 992px){
-	.header-content{
-		padding: 100px 0 236px;
-		h1{
-			font-size: 24px;
-		}
-	}
-	.block-cards{
-		.card-item{
-			margin-bottom: 40px;
-		}
-		.col-lg-4{
-			&:last-of-type{
-				.card-item{
-					margin-bottom: 0;
-				}
-			}
-		}
-	}
-	.block-text{
-		padding: 80px 0;
-		img{
-			max-width: 272px;
-			margin: 0 auto 25px;
-			display: block;
-		}
-		h2{
-			margin: 0 auto 25px;
-			max-width: 272px;
-			font-size: 22px;
-		}
-		p{
-			margin: 0 auto 25px;
-			max-width: 272px;
-		}
-		.btn-wrap{
-			margin: 0 auto;
-			max-width: 272px;
-		}
-	}
-	.block-form{
-		padding: 60px 0;
-		h2{
-			font-size: 26px;
-			margin-bottom: 65px;
-		}
-	}
-}
+  @media only screen and (max-width: 992px){
+      .header-content{
+          padding: 100px 0 236px;
+          h1{
+              font-size: 24px;
+          }
+      }
+      .block-cards{
+          .card-item{
+              margin-bottom: 40px;
+          }
+          .col-lg-4{
+              &:last-of-type{
+                  .card-item{
+                      margin-bottom: 0;
+                  }
+              }
+          }
+      }
+      .block-text{
+          padding: 80px 0;
+          img{
+              max-width: 272px;
+              margin: 0 auto 25px;
+              display: block;
+          }
+          h2{
+              margin: 0 auto 25px;
+              max-width: 272px;
+              font-size: 22px;
+          }
+          p{
+              margin: 0 auto 25px;
+              max-width: 272px;
+          }
+          .btn-wrap{
+              margin: 0 auto;
+              max-width: 272px;
+          }
+      }
+      .block-form{
+          padding: 60px 0;
+          h2{
+              font-size: 26px;
+              margin-bottom: 65px;
+          }
+      }
+  }
 
-@media only screen and (max-width: 769px){
-	.block-form{
-		padding: 60px 0;
-		h2{
-			font-size: 26px;
-			margin-bottom: 65px;
-		}
-		form{
-			max-width: 272px;
-			margin: 0 auto;
-			.row-form{
-				display: block;
-			}
-			input{
-				width: 100%;
-				margin-bottom: 20px;
-				&:nth-of-type(2){
-					margin-left: 0;
-				}
-			}
-			textarea{
-				margin-bottom: 40px;
-			}
-		}
-	}
-}
+  @media only screen and (max-width: 769px){
+      .block-form{
+          padding: 60px 0;
+          h2{
+              font-size: 26px;
+              margin-bottom: 65px;
+          }
+          form{
+              max-width: 272px;
+              margin: 0 auto;
+              .row-form{
+                  display: block;
+              }
+              input{
+                  width: 100%;
+                  margin-bottom: 20px;
+                  &:nth-of-type(2){
+                      margin-left: 0;
+                  }
+              }
+              textarea{
+                  margin-bottom: 40px;
+              }
+          }
+      }
+  }
 
-@media only screen and (min-width: 768px) and (max-width: 992px){
-	.block-text{
-		img, h2, p, .btn-wrap{
-			max-width: 445px;
-		}
-	}
-}
+  @media only screen and (min-width: 768px) and (max-width: 992px){
+      .block-text{
+          img, h2, p, .btn-wrap{
+              max-width: 445px;
+          }
+      }
+  }
