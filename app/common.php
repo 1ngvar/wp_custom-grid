@@ -1,4 +1,7 @@
 <?php
+define( "BASE_URL", "http://localhost/Wordpress/app/" );
+
+
 $currentpage = $_SERVER['REQUEST_URI'];
 if($currentpage=="/" || $currentpage=="/index.php" || $currentpage=="/index" || $currentpage=="" ) {
 	$page_class = "page_main";
